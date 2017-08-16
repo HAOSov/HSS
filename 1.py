@@ -1,12 +1,16 @@
 #!/usr/bin/env python
 
 import json
-import
-import
-import
-import
+import os
+import os.path
+import re
+import sys
 
+
+from collections import defaultdict
 from  import
-from  imrott
 from  import as
 
+except ImportError:
+    print(" If u saw this, this a very bad, i dunno... ")
+    sys.exit(1)
