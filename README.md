@@ -1,1 +1,1 @@
-# HSS
+ssh -T git@github.com
