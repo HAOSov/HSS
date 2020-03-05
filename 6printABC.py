@@ -1,5 +1,7 @@
 a='HAOSov'
 b='Always'
 c='Win'
-print(a,b,c)
+d='for'
+e='Sure'
+print(a,b,c,d,e)
 input()
