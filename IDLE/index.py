@@ -1,8 +1,9 @@
 S='HAOSov'
 len(S)
-S[0]
-S[1]
-S[2]
-S[3]
-S[4]
-S[5]
+print (S[0])
+print (S[1])
+print (S[2])
+print (S[3])
+print (S[4])
+print (S[5])
+input()
